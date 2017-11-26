@@ -9,3 +9,7 @@
 
 ## java persist api 
 [jpa-doc](https://docs.oracle.com/javaee/6/tutorial/doc/bnbpz.html)
+
+## sed 教程
+
+[sed-教程](http://blog.jobbole.com/109088/)
