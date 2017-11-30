@@ -17,3 +17,9 @@
 [sed-教程](http://blog.jobbole.com/109088/)
 
 ---
+
+## ansible 中文教程
+
+[ansible-chinese-course](http://www.ansible.com.cn)
+
+---
