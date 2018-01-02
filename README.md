@@ -22,3 +22,6 @@
 
 ---
 [loveyue](http://loveyue1.sinaapp.com/love/index.html)
+
+
+[adb devices can not find device](https://jingyan.baidu.com/article/ce09321b5b76642bff858f31.html)
