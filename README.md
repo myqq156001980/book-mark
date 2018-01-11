@@ -29,6 +29,6 @@
 [adb devices can not find device](https://jingyan.baidu.com/article/ce09321b5b76642bff858f31.html)
 
 ---
+[java 内部类](http://blog.51cto.com/android/384844)
 
-[java内部类](http://blog.51cto.com/android/384844)
----
+--
