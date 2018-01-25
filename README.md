@@ -47,4 +47,7 @@
 
 ---
 
+[pipenv python虚拟环境](https://mp.weixin.qq.com/s/NKyAFExaskPA4k0XqsAA-g)
 
+
+---
