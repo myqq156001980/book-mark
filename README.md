@@ -40,7 +40,7 @@
 
 ---
 
-[matplotlib 中文]（https://my.oschina.net/Kanonpy/blog/617535?p={{page}}）
+[matplotlib 中文](https://my.oschina.net/Kanonpy/blog/617535?p={{page}}）
 
 
 ---
