@@ -50,6 +50,7 @@
 ---
 
 [pipenv python虚拟环境](https://mp.weixin.qq.com/s/NKyAFExaskPA4k0XqsAA-g)
+[官方文档](https://docs.pipenv.org/)
 
 
 ---
