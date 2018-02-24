@@ -37,8 +37,9 @@
 ---
 [postman](https://www.getpostman.com/)
 
-
 ---
+[redis分布式锁](http://ifeve.com/redis-lock/)
+
 
 [matplotlib 中文](https://my.oschina.net/Kanonpy/blog/617535?p={{page}}）
 
